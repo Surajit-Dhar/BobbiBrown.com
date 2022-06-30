@@ -4,7 +4,7 @@
 
 Bobbi Brown Cosmetics is a global premium beauty brand that empowers women to embrace and enhance their individual beauty. The website of bobbi-brown provides all the beauty products that are offered by the company.
 
-This was a collaborative project of six member to create a clone of bobbi-brown website. This Project was made as a part of construct week curriculum of MASAI School.
+This was a collaborative project clone of bobbi-brown website. This Project was made as a part of individual project week of MASAI School.
 
 
 ## Tech Stack
