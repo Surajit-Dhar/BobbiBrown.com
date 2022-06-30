@@ -1,4 +1,4 @@
-<img src="https://www.stylegods.com/wp-content/uploads/2018/11/bobbi8.png" alt="Logo" width="100%">
+<img src="https://www.bobbibrowncosmetics.com/media/export/cms/Homepage/SS22/SS22_LastBeautyEvent_Glow_pc.jpg" alt="Logo" width="100%">
 
 # Bobbi-Brown Clone
 
